@@ -12,10 +12,10 @@ A leitura da projeção deve ser feita da esquerda para a direita (iniciando da 
 
 ## FUNCIONALIDADES:
 
-Para mudar a projeção para ver os dados de outros meses, basta apertar 'M'. 
-É possível dar zoom_in e zoom_out com '+' e '-'.
-Também é possível rotacionar a projeção ao longo do eixo X com as teclas 'J' e 'L'.
-É possível mudar de projeção por pontos para uma projeção como gráfico de linhas com o botão '1'.
+* Para mudar a projeção para ver os dados de outros meses, basta apertar 'M'. 
+* É possível dar zoom_in e zoom_out com '+' e '-'.
+* Também é possível rotacionar a projeção ao longo do eixo X com as teclas 'J' e 'L'.
+* É possível mudar de projeção por pontos para uma projeção como gráfico de linhas com o botão '1'.
 
 ## OBSERVAÇÕES:
 
