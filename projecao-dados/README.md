@@ -4,12 +4,11 @@ O Trabalho a seguir é da Disciplina de Computação Gráfica, basicamente eu ti
 
 ## SOBRE OS DADOS:
 
-Meu arquivo foi retirado da internet (link: https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html, provavelmente está com algumas modificações, eu por exemplo retirei o header do documento para facilitar na aquisição dos dados), se trata do número de casos de vendavais/tornados registrados dos meses de Maio - Dezembro, dos anos de 2005 até 2015, mas como eu posso ter alterado os dados originais, diremos que é um local fictício. 
+Meu arquivo foi retirado da internet (link: https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html), provavelmente está com algumas modificações, eu por exemplo retirei o header do documento para facilitar na aquisição dos dados), se trata do número de casos de vendavais/tornados registrados dos meses de Maio - Dezembro, dos anos de 2005 até 2015, mas como eu posso ter alterado os dados originais, diremos que é um local fictício. 
 
 ## COMO LER:
 
-A leitura da projeção deve ser feita da esquerda para a direita (iniciando da cor rosa até a cor vermelha). Cada ano é representado por uma bolinha colorida e cada projeção seria o mês, é possível 
-ver o título da janela mudar de acordo com o mês projetado. 
+A leitura da projeção deve ser feita da esquerda para a direita (iniciando da cor rosa até a cor vermelha). Cada ano é representado por uma bolinha colorida e cada projeção seria o mês, é possível ver o título da janela mudar de acordo com o mês projetado. 
 
 ## FUNCIONALIDADES:
 
@@ -20,4 +19,4 @@ Também é possível rotacionar a projeção ao longo do eixo X com as teclas 'J
 
 ## OBSERVAÇÕES:
 
-Ao longo do código também é possível ver diversas partes comentadas que eu utilizei para testar quanto as conversões dos valores que eu retirava do documento.
+Ao longo do código também é possível ver diversas partes comentadas que eu utilizei para testar quanto as conversões dos valores que eu retirava do documento. Além disso, o código gera um .exe que já está incluso no projeto, se alterar o código será necessário recompilar ele para que ele possa gerar novamente o .exe atualizado.
