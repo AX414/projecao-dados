@@ -13,9 +13,9 @@ uma projeção de dados retirados de um arquivo .CSV.
 <details>
   <summary><b>📊 Sobre os dados</b></summary>
 
-Meu dataset foi retirado da internet e aqui está o [link](https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html), ele 
+Meu dataset foi retirado da internet e aqui está o [link](https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html), o nome do csv é ```hurricanes.csv```, ele 
 provavelmente está com algumas modificações, eu por exemplo retirei o header do documento para 
-facilitar na aquisição dos daados), se trata do número de casos de vendavais/tornados registrados 
+facilitar na aquisição dos dados), se trata do número de casos de vendavais/tornados registrados 
 dos meses de Maio - Dezembro, dos anos de 2005 até 2015. 
 
 </details>
